@@ -1,1 +1,1 @@
-sup woreld.
+puts "sup woreld."
